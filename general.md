@@ -20,7 +20,18 @@ Subsequent rolls can also explode.
 > rolls again and gets a 2. He calculates his damage -- 10 + 10 + 10 + 2 + 8 --
 > and gets a 40.
 
+In additions, weapons have special explosion rules. Whenever an attack roll is
+naturally within the _threat range_ of the wielded weapon, the die explodes.
+
+> Example
+> Furio is wielding a longsword, whose threat range is 19-20. Furio makes an
+> attack roll; the natural value of the d20 is 19. Because this is within the
+> threat range of his weapon, he rolls a d20 again and this time gets a 7.
+> Furio's attack bonus is +4. The value of Furio's attack roll is 19 + 7 + 4 = 30.
+
 ### Critical
+Critical successes and critical hits occur whenever a roll of the d20 exceeds
+the target number by 20.
 
 
 ## Abilities
@@ -65,6 +76,10 @@ Races are
 ## Feats
 
 ## Equipment
+
+### Weapons
+
+#### Critical Range Is Now Explosion Range
 
 ## Combat
 
