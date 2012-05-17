@@ -6,8 +6,9 @@ WIS 12 (+1)
 CHA  8 (-1)
 
 Stance: 5
+DEFENSE: 11 (9 when raging)
 
-Resistance: 22 (24 when raging)
+Resistance: 22 (25 when raging)
 
 Weapon: Masterwork 2HSword (+1 on attack rolls)
 1d10 damage, explodes on 19-20, crit x2
@@ -15,4 +16,4 @@ Weapon: Masterwork 2HSword (+1 on attack rolls)
 Special:
 
 * FEAT: Power Attack
-* DR 2/-
+* DR 2/- (subtract 2 from all incoming damage)
