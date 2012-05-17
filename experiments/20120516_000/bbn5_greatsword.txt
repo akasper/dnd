@@ -1,0 +1,18 @@
+STR 16 (+3) (+5 when raging)
+DEX 13 (+1)
+CON 14 (+2) (+4 when raging)
+INT 10 ( 0)
+WIS 12 (+1)
+CHA  8 (-1)
+
+Stance: 5
+
+Resistance: 22 (24 when raging)
+
+Weapon: Masterwork 2HSword (+1 on attack rolls)
+1d10 damage, explodes on 19-20, crit x2
+
+Special:
+
+* FEAT: Power Attack
+* DR 2/-
