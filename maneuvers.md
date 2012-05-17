@@ -203,3 +203,10 @@ successfully untrapped the item.
 
 _Special_: You receive a +4 bonus to your attack roll to trap if you are
 attempting to trap an item you trapped during your last turn.
+
+
+# Ideas
+
+### Called Shot
+
+### Metamagic

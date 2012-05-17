@@ -18,4 +18,5 @@ Weapon: Masterwork 2HSword (+1 on attack rolls)
 Special:
 
 * FEAT: Power Attack
+* Rage (lasts 7 rounds, after which -1 to STR bonus, DEX bonus)
 * DR 2/- (subtract 2 from all incoming damage)

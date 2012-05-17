@@ -1,0 +1,22 @@
+STR 12 (+1)
+DEX 16 (+3)
+CON 13 (+1)
+INT 14 (+2)
+WIS 10 ( 0)
+CHA  8 (-1)
+
+Stance: 3
+Maneuvers: 4
+DEFENSE: 14
+
+Resistance: 5 + 1 + 5 + 4 + 2 = 17
+
+Weapon: Shortsword
+1d6 damage, explodes on 19-20, x2
+
+Shield: Buckler (+1)
+
+Special:
+FEAT: Shield Proiciency (you can block)
+Sneak Attack: +3d6
+Init: +4 (+7 total)
