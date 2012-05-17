@@ -5,6 +5,8 @@ INT 10 ( 0)
 WIS 12 (+1)
 CHA  8 (-1)
 
+Maneuvers: 2
+
 Stance: 5
 DEFENSE: 11 (9 when raging)
 
