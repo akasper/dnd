@@ -6,6 +6,7 @@ WIS 12 (+1)
 CHA 8  (-1)
 
 Stance: 5
+Maneuvers: 2
 DEFENSE: 11
 
 Resistance: 20
