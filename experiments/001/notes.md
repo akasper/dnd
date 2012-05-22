@@ -173,7 +173,7 @@ Ran some calculations, and this means...
     <td>Great Wyrm Red Dragon</td>
     <td>26</td>
     <td>79(breath), 48(bite), 56(bite, 41%)</td>
-    <td>20</td>
+    <td>51</td>
   </tr>
 </table>
 
