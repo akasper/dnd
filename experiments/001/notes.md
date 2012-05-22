@@ -147,7 +147,7 @@ Ran some calculations, and this means...
     <td>Barbarian</td>
     <td>5</td>
     <td>11, 21(10%)</td>
-    <td>13-14 (17-18 when raging)</td>
+    <td>13-14 (15-16 when raging)</td>
   </tr>
   <tr>
     <td>Rogue</td>
