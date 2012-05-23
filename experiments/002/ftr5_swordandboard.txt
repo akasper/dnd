@@ -1,0 +1,21 @@
+STR 16 (+3)
+DEX 13 (+1)
+CON 14 (+2)
+INT 10 ( 0)
+WIS 12 (+1)
+CHA 8  (-1)
+
+Prowess: 5
+
+Maneuvers: 2
+DEFENSE: 11
+
+Resistance: 19
+
+Weapon: Longsword
+1d8 damage, explodes on 19-20, x2
+
+Shield: Heavy Steel (+2)
+
+FEAT: Shield Proficiency (you can block)
+
