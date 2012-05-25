@@ -31,7 +31,7 @@ naturally within the _threat range_ of the wielded weapon, the die explodes.
 
 ### Critical
 Critical successes and critical hits occur whenever a roll of the d20 exceeds
-the target number by 20.
+the target number by 10.
 
 
 ## Abilities

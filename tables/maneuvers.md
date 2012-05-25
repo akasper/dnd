@@ -24,6 +24,10 @@
     <td>Give an opponent a choice: stay still or become victim of a critical hit.</td>
   </tr>
   <tr>
+    <th>Hustle</th>
+    <td>Add 1d6 when you roll initiative. Stacks.</td>
+  </tr>
+  <tr>
     <th>Parry</th>
     <td>Make an opposed attack roll to deflect a melee attack.</td>
   </tr>

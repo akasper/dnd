@@ -104,6 +104,17 @@ Instead, if the opponent moves more than one square during his next turn, you
 may make another attack. If the attack succeeds, it it automatically a critical
 hit.
 
+### Hustle
+You focus on acting quickly.
+
+* It is the beginning of the round, immediately after maneuvers have refreshed,
+  but before you have rolled initiative.
+
+Add 1d6 to your initiative roll for the round.
+
+_Special_: You may use more than one maneuver to hustle. Each additional
+maneuver expended grands an additional 1d6 to your initiative roll.
+
 ### Parry
 You deflect an incoming attack with your weapon.
 
